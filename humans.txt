@@ -1,0 +1,16 @@
+
+/* EQUIPO */
+Maquetador: Juan Cruz Aramburu Blanch
+Email: soporte [at] synapsis.com.ar
+Ubicación: Capital Federal, Argentina.
+
+Programador: Andrés Damesón
+Email: andresdameson [at] gmail.com
+Ubicación: Capital Federal, Argentina.
+
+
+/* SITIO */
+Estándares: HTML5, CSS3
+Componentes: jQuery
+Software: H5BP, Twitter Boostrap, CodeIgniter
+
